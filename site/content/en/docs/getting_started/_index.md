@@ -67,7 +67,7 @@ you the opportunity to speed up the execution of the annotation:
 1. To download the annotations, first you have to save all changes.
    Click the `Save` button or press `Ctrl+S`to save annotations quickly.
 
-1. After you saved the changes, click the `Menu` button.
+2. After you saved the changes, click the `Menu` button.
 
 1. Then click the `Export dataset` button.
 
